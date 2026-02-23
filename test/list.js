@@ -1,5 +1,5 @@
 import OSS from 'ali-oss';
-
+consoel.log("23");
 // OSS 配置接口地址
 const OSS_CONFIG_API = 'https://auction-api.wekic.com/index.php';
 
